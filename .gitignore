@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.log
+.playwright/
+._*
+docs/tools/net_practice/
+docs/referencias/net_practice.*.tgz
